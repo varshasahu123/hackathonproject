@@ -1,0 +1,30 @@
+15:27:35.023 [main] INFO  factory.BaseClass - user opens urbanladder website
+15:27:41.612 [main] INFO  factory.BaseClass - user clicks on gift cards
+15:27:44.858 [main] INFO  factory.BaseClass - user chooses Birthday or Anniversary
+15:27:48.949 [main] INFO  factory.BaseClass - user enters the valid amount, month and date
+15:27:52.221 [main] INFO  factory.BaseClass - user clicks on the next button
+15:27:57.188 [main] INFO  factory.BaseClass - user fills To & From details
+15:28:08.513 [main] INFO  factory.BaseClass - validate the email id
+15:28:21.823 [main] INFO  factory.BaseClass - the id is not valid and user gives correct email id
+15:28:25.423 [main] INFO  factory.BaseClass - validate the details in Confirm Details section
+15:28:25.615 [main] INFO  factory.BaseClass - close the browser
+16:37:27.188 [main] INFO  factory.BaseClass - user opens urbanladder website
+16:37:36.120 [main] INFO  factory.BaseClass - user searches for Bookshelves
+16:37:40.766 [main] INFO  factory.BaseClass - user selects the price range below fifteen thousand
+16:37:44.301 [main] INFO  factory.BaseClass - user chooses the category Kid Bookshelves
+16:37:47.621 [main] INFO  factory.BaseClass - exclude out of stock
+16:37:51.290 [main] INFO  factory.BaseClass - sorts by price High to Low
+16:37:54.982 [main] INFO  factory.BaseClass - fetch the top three items & print all details in console output
+16:37:55.172 [main] INFO  factory.BaseClass - user opens urbanladder website
+16:37:55.459 [main] INFO  factory.BaseClass - user clicks on the living menu
+16:37:59.591 [main] INFO  factory.BaseClass - retrieve all items under Living Storage sub-menu and print the same on the console
+16:37:59.786 [main] INFO  factory.BaseClass - user opens urbanladder website
+16:38:07.758 [main] INFO  factory.BaseClass - user clicks on gift cards
+16:38:11.180 [main] INFO  factory.BaseClass - user chooses Birthday or Anniversary
+16:38:14.882 [main] INFO  factory.BaseClass - user enters the valid amount, month and date
+16:38:18.127 [main] INFO  factory.BaseClass - user clicks on the next button
+16:38:22.980 [main] INFO  factory.BaseClass - user fills To & From details
+16:38:34.296 [main] INFO  factory.BaseClass - validate the email id
+16:38:47.707 [main] INFO  factory.BaseClass - the id is not valid and user gives correct email id
+16:38:51.340 [main] INFO  factory.BaseClass - validate the details in Confirm Details section
+16:38:51.520 [main] INFO  factory.BaseClass - close the browser
